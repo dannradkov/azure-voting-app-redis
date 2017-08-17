@@ -23,4 +23,4 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 
-# JR Demo KPMG Global 2017
+# JR Demo KPMG Global Demo  15.08.2017

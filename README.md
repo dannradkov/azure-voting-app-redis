@@ -2,6 +2,8 @@
 
 This sample creates a multi-container application in an Azure Container Service (ACS) Kubernetes cluster. The application interface has been built using Python / Flask. The data component is using Redis.
 
+#
+
 To walk through a quick deployment of this application, see the ACS Kubernetes [quick start](https://docs.microsoft.com/en-us/azure/container-service/kubernetes/container-service-kubernetes-walkthrough).
 
 To walk through a complete experience where this code is packaged into container images, uploaded to Azure Container Registry, and then run in and ACS Kubernetes cluster, see the [ACS Kubernetes tutorials](https://docs.microsoft.com/en-us/azure/container-service/kubernetes/container-service-tutorial-kubernetes-prepare-app).
@@ -19,3 +21,6 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+# JR Demo KPMG Global 2017
